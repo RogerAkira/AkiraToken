@@ -1,12 +1,10 @@
 /**
- *Submitted for verification at BscScan.com on 2021-04-20
+
 */
 
 /**
  * 
  * 
-   A charity-oriented token that is helping to fight mental illness across the world. 
-
    Akira features:
    5% fee auto added to the liquidity pool and locked forever
    5% fee auto distributed to all holders
