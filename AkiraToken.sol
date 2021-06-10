@@ -1,8 +1,4 @@
 /**
-
-*/
-
-/**
  * 
  * 
    Akira features:
