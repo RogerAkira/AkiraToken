@@ -689,7 +689,7 @@ interface IUniswapV2Router02 is IUniswapV2Router01 {
 }
 
 
-contract HappyCoin is Context, IERC20, Ownable {
+contract AkiraToken is Context, IERC20, Ownable {
     using SafeMath for uint256;
     using Address for address;
 
