@@ -1,6 +1,9 @@
+
 /**
  * 
  * 
+    Community driven token experiment to generate funding for development of earth preserving technology. For example, use funding from Akira Token to create solar powered vertical farm. This is just the start.
+
    Akira features:
    5% fee auto added to the liquidity pool and locked forever
    5% fee auto distributed to all holders
@@ -83,6 +86,9 @@ interface IERC20 {
 
 
 /**
+ * 
+ * Code base derived from https://ethereumdev.io/using-safe-math-library-to-prevent-from-overflows/
+ * 
  * @dev Wrappers over Solidity's arithmetic operations with added overflow
  * checks.
  *
@@ -94,6 +100,11 @@ interface IERC20 {
  *
  * Using this library instead of the unchecked operations eliminates an entire
  * class of bugs, so it's recommended to use it always.
+ * 
+ * 
+ * 
+ * 
+ * 
  */
  
 library SafeMath {
